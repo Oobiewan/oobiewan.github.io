@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'First attempt',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        used to get your website up and running quickly. I'm trying to prove this, and set up a website using GitHub Pages.
       </>
     ),
   },
